@@ -8,7 +8,7 @@ public class Global {
     @SerializedName("coord")
     private Coord coord;
 
-    @SerializedName("Global")
+    @SerializedName("weather")
     private List<Weather> weather;
 
     @SerializedName("main")
